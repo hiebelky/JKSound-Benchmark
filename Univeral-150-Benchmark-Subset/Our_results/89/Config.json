@@ -1,0 +1,13 @@
+{
+	"Annotations": [
+		[38506, 100927],
+		[148758, 193627]
+	],
+	"Mix": "mix.wav",
+	"Target-Ground-Truth": "gt1.wav",
+	"Remain-Ground-Truth": "gt2.wav",
+	"Target-Comparisons": ["dap1.wav", "kam1.wav", "nmf1.wav", "rpca1.wav"],
+	"Remain-Comparisons": ["dap2.wav", "kam2.wav", "nmf2.wav", "rpca2.wav"],
+	"Category": "Animal",
+	"Remain-Category": "Urban"
+}

@@ -1,0 +1,26 @@
+{
+	"Annotations": [
+	    [17827, 18130],
+		[26335, 26335],
+		[36058, 36666],
+		[55354, 55911],
+		[66850, 67306],
+		[72927, 76245],
+		[81891, 81891],
+		[84145, 84145],
+		[95818, 95540],
+		[115215, 115670],
+		[133446, 133814],
+		[191434, 191434],
+		[202271, 203639],
+		[239950, 240710],
+		[229113, 232911]
+	],
+	"Mix": "mix.wav",
+	"Target-Ground-Truth": "gt2.wav",
+	"Remain-Ground-Truth": "gt1.wav",
+	"Target-Comparisons": ["dap2.wav", "kam2.wav", "nmf2.wav", "rpca2.wav"],
+	"Remain-Comparisons": ["dap1.wav", "kam1.wav", "nmf1.wav", "rpca1.wav"],
+	"Category": "Human",
+	"Remain-Category": "Music"
+}

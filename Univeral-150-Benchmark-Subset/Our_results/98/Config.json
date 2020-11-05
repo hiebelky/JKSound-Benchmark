@@ -1,0 +1,20 @@
+{
+	"Annotations": [
+		[30508, 39845],
+		[58085, 60251],
+		[81862, 93022],
+		[111067, 121250],
+		[138570, 151713],
+		[169370, 182615],
+		[200529, 212558],
+		[230929, 235380],
+		[252100, 262740]
+	],
+	"Mix": "mix.wav",
+	"Target-Ground-Truth": "gt1.wav",
+	"Remain-Ground-Truth": "gt2.wav",
+	"Target-Comparisons": ["dap1.wav", "kam1.wav", "nmf1.wav", "rpca1.wav"],
+	"Remain-Comparisons": ["dap2.wav", "kam2.wav", "nmf2.wav", "rpca2.wav"],
+	"Category": "Animal",
+	"Remain-Category": "Music"
+}
